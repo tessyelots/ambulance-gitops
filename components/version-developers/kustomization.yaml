@@ -5,5 +5,5 @@ images:
   newName: xsmutny/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
   newTag: master.20250322.1040 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: xsmutny/porodnica-ambulance-ufe
-  newName: xsmutny/porodnica-ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main.20250322.2001 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newName: xsmutny/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
+  newTag: master.20250322.1040 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
