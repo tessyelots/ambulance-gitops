@@ -9,6 +9,7 @@ labels:
 
 resources:
 - ../../../apps/ms-ambulance-ufe
+- ../../../apps/porodnica-ambulance-ufe
 
 components:
 - ../../../components/version-developers

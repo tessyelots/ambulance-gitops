@@ -4,3 +4,6 @@ images:
 - name: xsmutny/ambulance-ufe
   newName: xsmutny/ambulance-ufe
   newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: xsmutny/porodnica-ambulance-ufe
+  newName: xsmutny/porodnica-ambulance-ufe
+  newTag: 1.0.0 
