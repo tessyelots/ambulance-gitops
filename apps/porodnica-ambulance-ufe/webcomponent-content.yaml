@@ -8,4 +8,4 @@ spec:
   displayRules:
     - allOf:
       - context-name: main-content
-      - path: "^(\\.?/)?porodnica-ambulance-home(/.*)?$"
+      - path: "^(\\.?/)?porodnica-ambulance(/.*)?$"
