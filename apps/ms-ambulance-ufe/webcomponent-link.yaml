@@ -9,7 +9,7 @@ spec:
     - name: headline
       value: Zoznam čakajúcich ms
     - name: short-headline
-      value: Zoznam čakajúcich ms
+      value: Zoznam cakajúcich ms
     - name: supporting-text
       value: |
         Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
