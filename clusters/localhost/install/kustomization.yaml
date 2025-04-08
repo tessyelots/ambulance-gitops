@@ -9,6 +9,11 @@ labels:
 
 resources:
 - ../../../apps/ms-ambulance-ufe
+- ../../../apps/ms-ambulance-webapi
+
+patches:
+- path: patches/ambulance-webapi.service.yaml
 
 components:
 - ../../../components/version-developers
+- https://github.com/tessyelots/ambulance-webapi//deployments/kustomize/components/mongodb
