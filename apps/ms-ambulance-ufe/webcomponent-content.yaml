@@ -7,7 +7,7 @@ spec:
   element: ms-ambulance-wl-app
   attributes:
     - name: api-base
-      value: http://localhost:30081/api
+      value: /ms-api
   displayRules:
     - allOf:
       - context-name: main-content
