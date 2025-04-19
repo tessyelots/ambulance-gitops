@@ -12,3 +12,4 @@ spec:
     - allOf:
       - context-name: main-content
       - path: "^(\\.?/)?ms-ambulance-wl(/.*)?$"
+      
