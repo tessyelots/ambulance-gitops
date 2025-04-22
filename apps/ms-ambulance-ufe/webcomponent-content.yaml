@@ -8,6 +8,8 @@ spec:
   attributes:
     - name: api-base
       value: /ms-api
+    - name: ambulance-id
+      value: bobulova
   displayRules:
     - allOf:
       - context-name: main-content
