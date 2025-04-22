@@ -10,6 +10,8 @@ spec:
       value: /ms-api
     - name: ambulance-id
       value: bobulova
+    - name: base-path
+      value: /ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
